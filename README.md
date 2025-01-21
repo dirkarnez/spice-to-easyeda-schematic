@@ -1,0 +1,3 @@
+- https://gist.github.com/dillonHe/fe0bb029c51603077ad9
+- [EasyEDA Schematic File Format | EasyEDA Std User Guide](https://docs.easyeda.com/en/DocumentFormat/2-EasyEDA-Schematic-File-Format/#symbol)
+- [easyeda2kicad/src/easyeda-types.ts at master · wokwi/easyeda2kicad · GitHub](https://github.com/wokwi/easyeda2kicad/blob/master/src/easyeda-types.ts)
