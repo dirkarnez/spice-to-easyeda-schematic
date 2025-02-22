@@ -8,3 +8,4 @@
 
 ### Reference
 - https://gist.github.com/dillonHe/fe0bb029c51603077ad9
+- [bennymeg/Fabrication-Toolkit: An JLC PCB Fabrication Plugin for KiCad](https://github.com/bennymeg/Fabrication-Toolkit)
